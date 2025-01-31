@@ -1,0 +1,7 @@
+.description {
+    height: 6em; /* Adjust based on the number of lines you want to show */
+    overflow: scroll;
+    background-color: #00000050;
+    position: relative;
+    padding: 1.5em;
+}
